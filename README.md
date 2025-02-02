@@ -1,9 +1,9 @@
 <div align="center">
 # Hi, I'm Anirudh Nallala
 </div>
-<div align="center">
+
 ### A passionate Devops Engineer from Hyderabad
-</div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
