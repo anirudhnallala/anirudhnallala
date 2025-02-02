@@ -25,15 +25,18 @@
 
 ### Languages and Tools:
 
+### Languages and Tools:
+
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="50" height="50"/>
 </div>
+
 
