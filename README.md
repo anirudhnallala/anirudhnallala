@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/anirudhnallala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anirudhnallala)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/yourprofile)
 
 ### Languages and Tools:
