@@ -15,7 +15,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/anirudhnallala" target="_blank" title="LinkedIn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
   </a>
 </div>
 
