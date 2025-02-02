@@ -31,7 +31,9 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
 </div>
 
 
