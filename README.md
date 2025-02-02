@@ -1,39 +1,12 @@
-<div align="center">
-  
-# Hi 👋, I'm Anirudh Nallala
+<h1 align="center">Hi 👋, I'm Anirudh Nallala</h1>
+<h3 align="center">A passionate Devops Engineer from Hyderabad</h3>
 
-### A passionate Devops Engineer from Hyderabad
+- 📫 How to reach me **anirudhnallala@gmail.com**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anirudhnallala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudhnallala" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- anirudhnallala@gmail.com
-
-### Connect with me:
-
-<div>
-  <a href="https://www.linkedin.com/in/anirudhnallala" target="_blank" title="LinkedIn">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="40" height="40">
-  </a>
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="50" height="50"/>
-</div>
-
-
-### Languages and Tools:
-<div align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
-</div>
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
