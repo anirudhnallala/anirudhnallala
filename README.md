@@ -22,13 +22,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/yourprofile)
 
 ### Languages and Tools:
-
-### Languages and Tools:
-
-### Languages and Tools:
-
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS" width="50" height="50"/>
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
@@ -38,5 +33,6 @@
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="50" height="50"/>
 </div>
+
 
 
