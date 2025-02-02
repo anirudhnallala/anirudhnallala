@@ -15,7 +15,9 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhnallala)
+<a href="https://www.linkedin.com/in/anirudhnallala" target="_blank" title="LinkedIn">
+  <i class="fab fa-linkedin-in" style="font-size: 40px; color: #0077B5;"></i>
+</a>
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/yourprofile)
 
 ### Languages and Tools:
