@@ -20,7 +20,6 @@
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="50" height="50"/>
 </div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/yourprofile)
 
 ### Languages and Tools:
 <div align="left">
