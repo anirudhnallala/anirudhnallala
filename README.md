@@ -1,4 +1,4 @@
-# Hi, I'm [Anirudh Nallala]
+# Hi, I'm Anirudh Nallala
 
 ### A passionate [Devops Engineer] from [Hyderabad]
 
