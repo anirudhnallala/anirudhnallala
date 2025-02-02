@@ -1,6 +1,6 @@
 # Hi, I'm Anirudh Nallala
 
-### A passionate [Devops Engineer] from [Hyderabad]
+### A passionate Devops Engineer from Hyderabad
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
