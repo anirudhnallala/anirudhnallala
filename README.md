@@ -18,6 +18,12 @@
 <a href="https://www.linkedin.com/in/anirudhnallala" target="_blank" title="LinkedIn">
   <i class="fab fa-linkedin-in" style="font-size: 40px; color: #0077B5;"></i>
 </a>
+<div>
+<a href="https://www.linkedin.com/in/anirudhnallala" target="_blank" title="LinkedIn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="40" height="40">
+</a>
+</div>
+
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/yourprofile)
 
 ### Languages and Tools:
