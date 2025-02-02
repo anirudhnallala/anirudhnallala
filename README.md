@@ -1,6 +1,7 @@
 <div align="center">
 # Hi, I'm Anirudh Nallala
-
+</div>
+<div align="center">
 ### A passionate Devops Engineer from Hyderabad
 </div>
 
