@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Nallala</h1>
 <h3 align="center">A passionate Devops Engineer from Hyderabad</h3>
 
-- 📫 How to reach me **anirudhnallala@gmail.com**
+- 📫 Reach me **anirudhnallala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
